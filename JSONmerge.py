@@ -4,8 +4,8 @@ from pathlib import Path
 import json
 
 # Directories
-input_dir = r'C:\Users\erics\Downloads\products_testen\en'
-output_file = r'C:\Users\erics\Downloads\products_testen\output_file.json'
+input_dir = r'C:\Users\erics\Downloads\products\de'
+output_file = r'C:\Users\erics\Downloads\products\output_file.json'
 
 # Get array of files
 #files = glob(path.join(input_dir, "**", "*.json"))
